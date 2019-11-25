@@ -1,0 +1,3 @@
+getPromedio
+
+	^promedio.
