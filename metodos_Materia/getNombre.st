@@ -1,0 +1,2 @@
+getNombre
+	^nombre.
