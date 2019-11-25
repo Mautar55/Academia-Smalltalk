@@ -1,0 +1,14 @@
+Para cargar el archivo de smalltalk arrastrar y soltar.
+
+Para ver los archivos del codigo fuente ir al menu Tools .. Browser
+  click derecho en la lista de la izquierte, alphabetize
+  busquen la categoria Academia-Smalltalk
+  ahi van a aparecer a la derecha las 3 clases
+  clic en cada una y aparecen sus respectivos metodos.
+  
+
+Para probar el codigo tienen que abrir una ventana de transcript (consola de salida) y otra de workspace (consola de entrada)
+ambas estan en el meno Tools
+
+pueden copiar en la de workspace los archivos de workspace que dejo aca.
+para ejecutarlos seleccionen todo, clic derecho y pongan [ Do it ]
